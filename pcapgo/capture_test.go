@@ -5,6 +5,7 @@
 // tree.
 // +build linux,go1.9
 
+package pcapgo_test
 
 import (
 	"log"
